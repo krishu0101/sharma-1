@@ -1,0 +1,108 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #happy
+  {
+    color: black;
+    transition: 0.3s ease-in-out
+  }
+  #happy:hover{
+    color: aqua;
+  }
+  #bot
+  {
+    border: 2px solid aqua;
+    height: 35px;
+    width: 190px;
+    border-radius: 0.5rem;
+  }
+  #home
+  {
+    background-color: rgb(0 0 0 / 60%);
+    background-image: url(unnamed.png);
+    background-blend-mode: multiply;
+    height: 100vh;
+    background-size: cover;
+  }
+  #ok
+  {
+    height: 60vh;
+  }
+  #kii{
+    color:white;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 50px;
+  }
+  span{
+    color:aqua;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 50px;
+  }
+  #bat
+  {
+    border: 2px solid aqua;
+    height: 35px;
+    width: 190px;
+    border-radius: 0.5rem;
+    color: white;
+
+    background-color: transparent;
+  }
+  #bot
+  {
+    border: 2px solid aqua;
+    height: 35px;
+    width: 190px;
+    border-radius: 0.5rem;
+    background-color: transparent;
+  }
+  #yo{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+  }
+ #bt{
+  border: 2px solid aqua;
+  height: 35px;
+  width: 190px;
+  border-radius: 0.5rem;
+  background-color: transparent;
+ }
+ 
+#bg
+{
+  background-color: rgb(182, 180, 176);
+}
+
+#not
+{
+  background-color:aqua;
+
+  height: 35px;
+  width: 190px;
+  border-radius: 0.5rem;
+  background-color: transparent;
+}
+#box{
+  background-color: aqua;
+  height: 200px;
+  margin-bottom: 0rem;
+}
+.head
+{
+  margin: 0px;
+}
+
+
+
+
+   
+
+  
